@@ -1,0 +1,32 @@
+/* TEAM */
+Name: Andy Iv. (@digitalandyeu)
+Role: Lead Developer & Founder
+Author: https://github.com/andriilive
+Site: https://digitalandy.eu
+GitHub: https://github.com/digitalandyeu
+Instagram: https://instagram.com/digitalandy.eu
+Email: hi@digitalandy.eu
+Location: Czech Republic
+
+
+
+/* THANKS */
+Name: Nina Pirkl
+Role: Content administration
+LinkedIn: https://www.linkedin.com/in/nina-pirkl-547361a3
+
+Name: Igor Tristan
+Role: Marketing Strategist
+LinkedIn: https://www.linkedin.com/in/igor-trystan-7225bb161
+
+Name: Phillip Egorov
+Role: UX/UI Designer
+LinkedIn: https://www.linkedin.com/in/philavr
+
+Name: Hlib Zinchenko
+Role: UA Translation
+
+
+
+/* SITE */
+License: https://valli.cz/license.txt
